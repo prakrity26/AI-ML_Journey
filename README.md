@@ -43,7 +43,7 @@ The better-performing model was selected based on test accuracy.
 
 ### Titanic Visual Report
 
-![Titanic Report](titanic_visual_report.png)
+titanic_visual_report.png
 
 ## Conclusion
 
