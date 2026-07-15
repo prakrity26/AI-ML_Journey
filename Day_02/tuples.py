@@ -21,3 +21,5 @@ print(lists_2)
 lists_1[0]='Art'
 print(lists_1)
 print(lists_2)
+
+#here the value is same and Art is appended since it is mutable

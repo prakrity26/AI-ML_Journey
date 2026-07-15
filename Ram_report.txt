@@ -1,0 +1,6 @@
+------ Student Report ------
+Name: Ram
+Age: 20
+Marks: [85, 90, 78, 88, 92]
+Average: 86.60
+Grade: Distinction

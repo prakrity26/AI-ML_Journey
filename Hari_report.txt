@@ -1,0 +1,6 @@
+------ Student Report ------
+Name: Hari
+Age: 19
+Marks: [35, 40, 30, 45, 38]
+Average: 37.60
+Grade: Fail

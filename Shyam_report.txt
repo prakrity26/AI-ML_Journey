@@ -1,0 +1,6 @@
+------ Student Report ------
+Name: Shyam
+Age: 21
+Marks: [65, 70, 60, 55, 68]
+Average: 63.60
+Grade: Pass
